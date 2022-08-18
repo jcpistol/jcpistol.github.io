@@ -1,0 +1,9 @@
+{
+	"name": "tbiresourcegroup-adf-JCP",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a69712da-4078-461a-bf3a-2d9d2aab99b9",
+		"tenantId": "7be2c9e5-8331-41f7-acbb-76f58bf47475"
+	}
+}
